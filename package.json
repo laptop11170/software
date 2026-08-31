@@ -4,7 +4,6 @@
   "description": "Kobirul Softwares – Premium Verified Digital Tools & Subscriptions",
   "main": "index.html",
   "scripts": {
-    "dev": "python -m http.server 8080",
-    "build": "echo Static Build Ready"
+    "dev": "python -m http.server 8080"
   }
 }
