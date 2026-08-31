@@ -73,16 +73,20 @@ export class SupabaseClientService {
     localStorage.removeItem("kobirul_admin_session");
   }
 
-  // Catalog Loader
+  // Catalog Loader (With Vercel Path Resiliency)
   async getCatalog() {
-    try {
-      const response = await fetch("public/data/catalog.json");
-      if (response.ok) {
-        return await response.json();
+    const paths = ["public/data/catalog.json", "./public/data/catalog.json", "/public/data/catalog.json"];
+    for (const path of paths) {
+      try {
+        const response = await fetch(path);
+        if (response.ok) {
+          return await response.json();
+        }
+      } catch (err) {
+        // try next path
       }
-    } catch (err) {
-      console.warn("[Kobirul SDK] Local catalog fallback used:", err);
     }
+    console.warn("[Kobirul SDK] Unable to fetch catalog.json");
     return { products: [], bundles: [] };
   }
 

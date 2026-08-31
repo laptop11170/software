@@ -1,0 +1,10 @@
+{
+  "name": "kobirul-softwares",
+  "version": "1.0.0",
+  "description": "Kobirul Softwares – Premium Verified Digital Tools & Subscriptions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "build": "echo Static Build Ready"
+  }
+}
