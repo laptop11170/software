@@ -1,0 +1,10 @@
+# Dependencies & Temporary Files
+node_modules/
+.env
+.DS_Store
+*.zip
+git_bin/
+scratch/
+.system_generated/
+__pycache__/
+*.pyc

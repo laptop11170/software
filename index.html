@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en" class="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kobirul Softwares – Premium Verified Digital Tools & Subscriptions</title>
+  <meta name="description" content="India's leading digital tools hub. Verified Adobe Creative Cloud, Canva Pro, ChatGPT Plus, Claude Pro, Midjourney & top software licenses with instant delivery and refund guarantee.">
+  
+  <!-- Google Fonts: Editorial Serif & Clean Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Razorpay Payment Gateway SDK -->
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+  <!-- CSS Design System -->
+  <link rel="stylesheet" href="src/css/styles.css">
+</head>
+<body>
+
+  <!-- Top Announcement Bar -->
+  <div class="announcement-bar">
+    <div class="container announcement-content">
+      <span><i class="fa-solid fa-sparkles text-terracotta"></i> <strong>SPECIAL OFFER:</strong> Up to 60% OFF on All AI & Developer Tools! Instant License Activation.</span>
+      <div class="announcement-right">
+        <span class="support-link"><i class="fa-brands fa-whatsapp text-success"></i> WhatsApp Support: +91 98765 43210</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Navigation Header -->
+  <header class="navbar"></header>
+
+  <!-- Mobile Drawer Overlay & Menu -->
+  <div class="mobile-drawer-overlay" id="mobile-drawer-overlay" onclick="app.closeMobileDrawer()"></div>
+  <div class="mobile-drawer" id="mobile-drawer">
+    <div class="mobile-drawer-header">
+      <div class="logo">
+        <div class="logo-mark">K</div>
+        <div class="logo-text">Kobirul <span class="logo-serif">Softwares</span></div>
+      </div>
+      <button class="modal-close" onclick="app.closeMobileDrawer()" style="position:static;">&times;</button>
+    </div>
+    <div class="mobile-drawer-links">
+      <a href="#" class="mobile-drawer-link" onclick="app.switchView('store'); return false;"><i class="fa-solid fa-border-all text-terracotta"></i> Catalog (250+)</a>
+      <a href="#" class="mobile-drawer-link" onclick="app.filterByCategory('Bundles'); return false;"><i class="fa-solid fa-layer-group text-warning"></i> Bundles</a>
+      <a href="#" class="mobile-drawer-link" onclick="app.navigateToCustomerDashboard(); return false;"><i class="fa-solid fa-user text-success"></i> Dashboard</a>
+      <a href="#" class="mobile-drawer-link" onclick="app.openCustomerAuthModal(); return false;"><i class="fa-solid fa-right-to-bracket"></i> Sign In / Account</a>
+    </div>
+  </div>
+
+  <!-- STORE VIEW -->
+  <main id="view-store" class="main-view active">
+    <!-- Hero Banner (Claude Style Editorial Aesthetics) -->
+    <section class="hero-section">
+      <div class="container hero-content">
+        <div class="hero-tag"><i class="fa-solid fa-shield-cat"></i> Verified Digital Subscriptions & Licenses</div>
+        <h1 class="hero-title">Intelligent software solutions, <span class="serif-italic">curated for creators</span></h1>
+        <p class="hero-subtitle">Instant access to Adobe CC, Canva Pro, ChatGPT Plus, Claude Pro & top developer software with full INR payment support (UPI, PhonePe, Paytm, Razorpay) and replacement warranty.</p>
+        
+        <!-- Trust Badges -->
+        <div class="trust-grid">
+          <div class="trust-card">
+            <i class="fa-solid fa-bolt trust-icon"></i>
+            <div>
+              <strong>Instant Activation</strong>
+              <span>Credentials delivered within 5-10 minutes</span>
+            </div>
+          </div>
+          <div class="trust-card">
+            <i class="fa-solid fa-qrcode trust-icon"></i>
+            <div>
+              <strong>UPI & NetBanking</strong>
+              <span>Razorpay, GPay, PhonePe, Paytm, QR Payment</span>
+            </div>
+          </div>
+          <div class="trust-card">
+            <i class="fa-solid fa-shield-check trust-icon"></i>
+            <div>
+              <strong>100% Warranty</strong>
+              <span>Full duration replacement guarantee</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Product Catalog Section -->
+    <section class="catalog-section container">
+      <!-- Category Filter Tabs -->
+      <div class="category-bar" id="category-bar">
+        <button class="cat-chip active" onclick="app.filterByCategory('All')">All Tools (250+)</button>
+        <button class="cat-chip" onclick="app.filterByCategory('AI Tools')"><i class="fa-solid fa-brain"></i> AI Tools</button>
+        <button class="cat-chip" onclick="app.filterByCategory('Design Tools')"><i class="fa-solid fa-compass-drafting"></i> Design</button>
+        <button class="cat-chip" onclick="app.filterByCategory('Video & Streaming')"><i class="fa-solid fa-film"></i> Video & Streaming</button>
+        <button class="cat-chip" onclick="app.filterByCategory('Developer & SaaS')"><i class="fa-solid fa-code"></i> Developer & SaaS</button>
+        <button class="cat-chip" onclick="app.filterByCategory('Software & OS')"><i class="fa-solid fa-laptop-code"></i> Windows & Office</button>
+        <button class="cat-chip" onclick="app.filterByCategory('SEO & Marketing')"><i class="fa-solid fa-chart-pie"></i> SEO & Marketing</button>
+        <button class="cat-chip" onclick="app.filterByCategory('Bundles')"><i class="fa-solid fa-layer-group"></i> Value Packs</button>
+      </div>
+
+      <!-- Catalog Grid -->
+      <div class="products-grid" id="products-grid">
+        <!-- Dynamic Products Injected via JS -->
+      </div>
+    </section>
+  </main>
+
+  <!-- CUSTOMER DASHBOARD VIEW (PROTECTED BY CUSTOMER AUTH) -->
+  <main id="view-dashboard" class="main-view container"></main>
+
+  <!-- DEDICATED ADMIN LOGIN VIEW (/admin-login-1) -->
+  <main id="view-admin-login" class="main-view container"></main>
+
+  <!-- ADMIN ERP DASHBOARD VIEW (PROTECTED BY ADMIN AUTH) -->
+  <main id="view-admin" class="main-view container"></main>
+
+  <!-- CUSTOMER AUTHENTICATION MODAL -->
+  <div class="modal-overlay" id="auth-modal">
+    <div class="modal-card">
+      <!-- Injected via JS -->
+    </div>
+  </div>
+
+  <!-- PRODUCT DETAIL MODAL -->
+  <div class="modal-overlay" id="product-modal">
+    <div class="modal-card">
+      <button class="modal-close" onclick="app.closeModal('product-modal')">&times;</button>
+      <div class="modal-grid" id="modal-product-content">
+        <!-- Content Injected via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- CHECKOUT MODAL -->
+  <div class="modal-overlay" id="checkout-modal">
+    <div class="modal-card modal-lg">
+      <button class="modal-close" onclick="app.closeModal('checkout-modal')">&times;</button>
+      <div class="checkout-wrapper">
+        <h2><i class="fa-solid fa-lock text-terracotta"></i> Secure INR Checkout</h2>
+        
+        <div class="checkout-grid">
+          <!-- Order Summary -->
+          <div class="checkout-summary">
+            <h4>Order Summary</h4>
+            <div id="checkout-items-list" class="checkout-items"></div>
+            <div class="checkout-total">
+              <span>Total Amount (INR):</span>
+              <strong id="checkout-total-price" class="text-terracotta">₹0</strong>
+            </div>
+          </div>
+
+          <!-- Payment Methods & Customer Info -->
+          <div class="checkout-form">
+            <h4>1. Customer Contact</h4>
+            <div class="form-group">
+              <label>Full Name *</label>
+              <input type="text" id="cust-name" placeholder="e.g. Rahul Sharma" required>
+            </div>
+            <div class="form-group">
+              <label>Email Address (For License Delivery) *</label>
+              <input type="email" id="cust-email" placeholder="rahul@gmail.com" required>
+            </div>
+            <div class="form-group">
+              <label>WhatsApp Number *</label>
+              <input type="tel" id="cust-phone" placeholder="+91 98765 43210" required>
+            </div>
+
+            <h4 class="mt-4">2. Select Payment Option</h4>
+            <div class="payment-options">
+              <label class="payment-chip active">
+                <input type="radio" name="pay-method" value="upi" checked onchange="app.switchPaymentDetails('upi')">
+                <i class="fa-solid fa-qrcode"></i> UPI (GPay / PhonePe / Paytm)
+              </label>
+              <label class="payment-chip">
+                <input type="radio" name="pay-method" value="bank_transfer" onchange="app.switchPaymentDetails('bank_transfer')">
+                <i class="fa-solid fa-building-columns"></i> NetBanking (IMPS/NEFT)
+              </label>
+            </div>
+
+            <!-- Payment Account Details Card -->
+            <div class="payment-instructions-box mt-3" id="payment-instructions">
+              <div class="instruction-row">
+                <span>Account Name:</span>
+                <strong>KOBIRUL SOFTWARES INDIA</strong>
+              </div>
+              <div class="instruction-row">
+                <span>UPI ID:</span>
+                <strong id="pay-acc-number">kobirul@upi</strong>
+                <button class="copy-btn" onclick="app.copyText('kobirul@upi')"><i class="fa-regular fa-copy"></i> Copy UPI</button>
+              </div>
+              <div style="margin-top:10px; text-align:center;">
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=upi://pay?pa=kobirul@upi&pn=KobirulSoftwares" alt="UPI QR Code" style="width:120px; height:120px; border-radius:8px; margin:0 auto; display:block; border:1px solid var(--border-color);">
+                <small style="color:var(--text-muted); font-size:0.75rem; margin-top:4px; display:block;">Scan with GPay, PhonePe, Paytm, or BHIM app</small>
+              </div>
+            </div>
+
+            <h4 class="mt-4">3. Upload Payment Screenshot</h4>
+            <div class="form-group">
+              <label>Upload Screenshot / Transaction Proof</label>
+              <input type="file" id="cust-receipt" accept="image/*" class="file-input">
+            </div>
+
+            <button class="btn btn-block btn-primary mt-4" onclick="app.submitOrder()">
+              <i class="fa-solid fa-circle-check"></i> Submit Payment Proof for Activation
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RECEIPT VIEW MODAL -->
+  <div class="modal-overlay" id="receipt-modal">
+    <div class="modal-card">
+      <button class="modal-close" onclick="app.closeModal('receipt-modal')">&times;</button>
+      <div id="receipt-modal-content" class="receipt-box">
+        <!-- Content Injected via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- FLOATING SOCIAL PROOF TOAST -->
+  <div class="social-proof-toast" id="social-toast">
+    <div class="toast-avatar"><i class="fa-solid fa-sparkles"></i></div>
+    <div class="toast-info">
+      <span class="toast-name" id="toast-name">Rohan from Mumbai</span>
+      <span class="toast-action" id="toast-action">just activated <strong>Adobe Creative Cloud</strong></span>
+      <span class="toast-time" id="toast-time">3 mins ago • Verified Buyer</span>
+    </div>
+  </div>
+
+  <!-- FLOATING WHATSAPP BUTTON -->
+  <a href="https://wa.me/919876543210?text=Hi%20Kobirul%20Softwares,%20I%20need%20help%20with%20a%20digital%20subscription" target="_blank" class="whatsapp-float" title="Chat with WhatsApp Support">
+    <i class="fa-brands fa-whatsapp"></i>
+  </a>
+
+  <!-- JavaScript Production Main Entry Point -->
+  <script type="module" src="src/js/main.js"></script>
+</body>
+</html>

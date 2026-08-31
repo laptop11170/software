@@ -1,0 +1,2994 @@
+[
+  {
+    "s_no": "1.0",
+    "name": "Lovable",
+    "plan": "Pro Plan",
+    "description": "AI App Builder for Websites, Tools & SaaS. 200 Monthly Credits, Private Projects, No Branding Tag, Custom Domain Support",
+    "original_price": "$50/month",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "2.0",
+    "name": "Lovable",
+    "plan": "Pro Plan",
+    "description": "AI App Builder. 100 Monthly Credits, Private Projects, No Branding, Custom Domain, 3 Team Editors per Project",
+    "original_price": "$25/month (₹25,000+/year)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "3.0",
+    "name": "Lovable",
+    "plan": "Pro Plan",
+    "description": "AI App Builder. 600 Credits total over 3 months (200 credits/month)",
+    "original_price": "₹12,500+ GST",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "4.0",
+    "name": "Lovable",
+    "plan": "Business Plan",
+    "description": "AI App Builder. 1200 Credits per month",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "5.0",
+    "name": "Amazon Prime Video",
+    "plan": "Ads Free Plan",
+    "description": "Ad-Free Streaming, HD & 4K Quality, 3 Device Access (1 TV + 2 Devices), Unlimited Streaming",
+    "original_price": "Not specified",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "6.0",
+    "name": "Amazon Prime Video",
+    "plan": "Ads Free Plan",
+    "description": "4K Supported, 5 Devices Private, No Ads, Mobile/PC/Smart TV (Video only, no shopping benefits)",
+    "original_price": "₹399 (discounted)",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "7.0",
+    "name": "QuillBot",
+    "plan": "1 Month",
+    "description": "AI Writing Assistant. Paraphrasing, grammar checks, summarizer, citation tools, multiple writing modes",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "8.0",
+    "name": "Bolt.new",
+    "plan": "Pro Plan",
+    "description": "Full-Stack AI App Generator. 10 Million Tokens, One-Click Netlify Deployments, Browser-Based",
+    "original_price": "$200",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "9.0",
+    "name": "Notion",
+    "plan": "Business Plan + AI",
+    "description": "Notion Business with full AI access. Unlimited Pages, Blocks & Members, Advanced Permissions, Admin Controls & Analytics, Priority Support",
+    "original_price": "$240 (₹22,498+)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "10.0",
+    "name": "Notion",
+    "plan": "Business Plan + AI",
+    "description": "Notion Business with full AI access. Unlimited Collaborative Blocks, File Uploads, Charts, Full Notion AI",
+    "original_price": "$72",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "11.0",
+    "name": "ChatGPT Plus",
+    "plan": "Plus Plan (1 Month)",
+    "description": "Advanced Reasoning, Expanded Messages, File Uploads, Faster Image Creation, Deep Research, Projects & Custom GPTs, Codex Agent, Expanded Memory",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "12.0",
+    "name": "ChatGPT Plus",
+    "plan": "Plus Plan (12 Months)",
+    "description": "Access to Advanced AI Models, Faster Responses & Priority Access, Better Writing/Coding/Research, File Upload & Advanced Tools",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "13.0",
+    "name": "ChatGPT Plus",
+    "plan": "Plus Plan (Renewal 1 Month)",
+    "description": "Full GPT-5.3 access with advanced reasoning, expanded messaging, file/image uploads, deep research, Codex Agent",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "14.0",
+    "name": "Apify",
+    "plan": "$600 Credits Pack",
+    "description": "Web Scraping & Automation Platform. $150 Credits/Month, Data Extraction, Actor Automation, API Access, Scalable Crawling",
+    "original_price": "$600 Credits",
+    "validity": "4 Months"
+  },
+  {
+    "s_no": "15.0",
+    "name": "Make.com (Integromat)",
+    "plan": "Teams Plan",
+    "description": "No-code automation for teams. 480,000 Operations/Year (2x credits), 300+ Integrations, Team Collaboration",
+    "original_price": "$636/year (~₹59,000+)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "16.0",
+    "name": "Guideless AI",
+    "plan": "Pro Plan",
+    "description": "AI Video Documentation Tool. Unlimited Guide Creation, AI Narration & Voiceovers, MP4 Exports, No Watermark. Alternative to Loom/Scribe/Tango/Guidde",
+    "original_price": "$348 (₹32,273)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "17.0",
+    "name": "GitHub Copilot",
+    "plan": "Pro Edu Plan",
+    "description": "AI Coding Assistant. Copilot Cloud Agent, Claude & Codex in GitHub + VS Code, 300 Premium Requests, Unlimited Agent Mode & AI Chats",
+    "original_price": "₹34,999 + GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "18.0",
+    "name": "GitHub Copilot",
+    "plan": "Pro Plan (2 Years)",
+    "description": "AI Code Generation, Smart AI suggestions, Bug fixing, Project building. 1 Year Warranty",
+    "original_price": "$200+",
+    "validity": "24 Months"
+  },
+  {
+    "s_no": "19.0",
+    "name": "GitHub Enterprise",
+    "plan": "Enterprise Plan",
+    "description": "Enterprise-grade development platform (Copilot not included)",
+    "original_price": "₹54,978+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "20.0",
+    "name": "Railway",
+    "plan": "Pro Plan",
+    "description": "AI-native cloud platform. $245 Value, One-click deploys, Built-in CI/CD, Production-grade hosting & scaling",
+    "original_price": "$245",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "21.0",
+    "name": "Manus AI",
+    "plan": "Pro Plan",
+    "description": "All-in-one AI Agent. 4,000 Credits/Month, AI Research, Auto-create Presentations/Reports, Build Websites, Generate Images/Videos/Charts",
+    "original_price": "$240/year",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "22.0",
+    "name": "Gemini AI Pro",
+    "plan": "Pro Plan (with Veo3 + 5TB Storage)",
+    "description": "Gemini Latest Model, 1000 AI Credits/Month, Veo 3 Video Generator, Flow AI Filmmaker, Whisk Image-to-Video, NotebookLM, Gemini in Gmail/Docs, 5TB Storage, Family Sharing",
+    "original_price": "₹35,500 (₹35,000+)",
+    "validity": "18 Months"
+  },
+  {
+    "s_no": "23.0",
+    "name": "Gemini AI Pro",
+    "plan": "Ultra Plan (25,000 Credits)",
+    "description": "Gemini Ultra with 25,000 AI Credits for heavy usage",
+    "original_price": "Not specified",
+    "validity": "25 Days Warranty"
+  },
+  {
+    "s_no": "24.0",
+    "name": "Coursera Plus",
+    "plan": "Plus Plan",
+    "description": "7,000+ Premium Courses, Official Organizational Access, Certificates in Your Name, Top Universities & Companies",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "25.0",
+    "name": "Super Grok AI (xAI)",
+    "plan": "Premium Plus Plan",
+    "description": "Grok 4/4.1 Advanced Reasoning, Unlimited Image & Video Generation, 128K+ Context, Voice Mode, Real-time Web Search + DeepSearch",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "26.0",
+    "name": "Replit",
+    "plan": "Core Plan",
+    "description": "AI-powered coding platform. Unlimited Private Repls, 2x Boosted CPU & RAM, Always-On Hosting, Custom Domains, AI Coding Tools, 10GB Storage",
+    "original_price": "$240 (~₹20,000+/₹22,000+)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "27.0",
+    "name": "Replit",
+    "plan": "Core Plan",
+    "description": "3 Months Premium Access with all Core features",
+    "original_price": "Not specified",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "28.0",
+    "name": "Snap Leads",
+    "plan": "Pro Plan",
+    "description": "Lead Scraping & AI Lead Generation. 20+ Platforms + Google Maps Scraping, Unlimited Lead Extractions, Email Finder + Verification, AI Email Writer, Telegram & WhatsApp Number Scraping",
+    "original_price": "$169 (₹12,999)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "29.0",
+    "name": "OpenArt",
+    "plan": "Advanced & Infinite Plan",
+    "description": "AI Image & Video Generation. 12K/24K Credits, Consistent Characters, Personalized Models, Image-to-Video, Text-to-Video, Lip-Sync, All Models (Kling, Grok, Sora2, Hailuo, Veo3, Runway, etc.)",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "30.0",
+    "name": "ElevenLabs",
+    "plan": "Creator Plan",
+    "description": "AI Voice Generation. 100K Credits/Month, Professional Voice Cloning, Commercial License, Dubbing Studio, 20 Studio Projects, 192kbps Audio",
+    "original_price": "$264 (₹12,999+)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "31.0",
+    "name": "ElevenLabs",
+    "plan": "Scalar Plan",
+    "description": "Premium tier AI voice platform. Official Premium Tier with full features",
+    "original_price": "$3,588",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "32.0",
+    "name": "Microsoft 365 Family",
+    "plan": "Family Plan",
+    "description": "Word, Excel, PowerPoint & more, 1TB OneDrive, Use on 5 Devices (Windows/Mac)",
+    "original_price": "₹19,999+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "33.0",
+    "name": "Microsoft 365 Personal",
+    "plan": "Personal Plan",
+    "description": "Word, Excel, PowerPoint, Outlook, OneNote, Microsoft Copilot AI, Designer AI, Clipchamp Pro, 1TB Storage, 5 Devices",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "34.0",
+    "name": "Microsoft Office 365",
+    "plan": "Lifetime",
+    "description": "All Microsoft Apps & Software, Lifetime validity, 1TB OneDrive, 5 Devices (PC/Mac/Tablets/Smartphones)",
+    "original_price": "Not specified",
+    "validity": "Lifetime"
+  },
+  {
+    "s_no": "35.0",
+    "name": "Captions AI",
+    "plan": "Pro Plan",
+    "description": "AI Video Editing & Captions. Unlimited Exports, No Watermark, Custom Avatars & AI Tools, Auto-Captions, Dubbing in 29 Languages, Teleprompter, Stylish Captions",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "36.0",
+    "name": "Gamma AI",
+    "plan": "Pro Plan",
+    "description": "AI Presentation, Docs & Website Builder. Unlimited AI Creation, Premium AI Image Generation, Advanced AI Editing, Up to 60 Cards, Custom Fonts & Domains, Password Protection, Analytics, 100,000 AI Token Inputs",
+    "original_price": "High",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "37.0",
+    "name": "Gamma AI",
+    "plan": "Ultra Plan",
+    "description": "AI Presentation, Docs & Website Builder with ultra features. 4000 Credits/Month",
+    "original_price": "₹8,700+",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "38.0",
+    "name": "CodeRabbit AI",
+    "plan": "Pro Plan",
+    "description": "AI Code Review & Optimization. Unlimited AI PR Reviews, GitHub/GitLab Integration, Jira & Linear Support, Bug Detection, Auto Docstrings & Reports",
+    "original_price": "$19/month (₹18,000/year)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "39.0",
+    "name": "CodeRabbit AI",
+    "plan": "Pro Plus Plan",
+    "description": "Premium AI code review with Pro Plus features",
+    "original_price": "$300",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "40.0",
+    "name": "Cursor AI",
+    "plan": "Pro Plan",
+    "description": "AI Coding Assistant. Extended Agent Limits, Frontier AI Models, MCPs/Skills/Hooks Support, Cloud Agents Access, Advanced AI Coding Workflow",
+    "original_price": "$240 (₹21,999+)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "41.0",
+    "name": "Cursor AI",
+    "plan": "Pro Plan",
+    "description": "AI Coding Assistant. 2 Months access with all Pro features",
+    "original_price": "$50 Credit",
+    "validity": "2 Months"
+  },
+  {
+    "s_no": "42.0",
+    "name": "Cursor AI",
+    "plan": "Pro+ Plan",
+    "description": "Enhanced Pro plan with more usage limits",
+    "original_price": "Not specified",
+    "validity": "5 Months / 12 Months"
+  },
+  {
+    "s_no": "43.0",
+    "name": "Cursor AI",
+    "plan": "Ultra Plan",
+    "description": "Top-tier Cursor plan with maximum AI coding power",
+    "original_price": "₹21,999 + GST",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "44.0",
+    "name": "Cursor AI",
+    "plan": "$720 API Credits Plan",
+    "description": "$720 API Credits, Everything in Hobby + Pro Benefits, Extended Agent Limits, Frontier AI Models, MCPs/Skills/Hooks, Cloud Agents, 20x usage on OpenAI/Claude/Gemini",
+    "original_price": "₹89,999 + GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "45.0",
+    "name": "Framer",
+    "plan": "Pro Plan",
+    "description": "Design-first website builder. Visual no-code builder, Design→Publish workflow, CMS, Animations & Interactions, Fast Hosting, Custom Domains",
+    "original_price": "$360",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "46.0",
+    "name": "LightField CRM",
+    "plan": "Lightfield Plan",
+    "description": "Call Intelligence, Record/Transcribe/Analyze Calls, Automated Data Enrichment, Unlimited Agent Queries, Configurable Data Model, Smart CRM Automation",
+    "original_price": "Not specified",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "47.0",
+    "name": "Loom",
+    "plan": "Business + AI",
+    "description": "AI Video Recording & Sharing. Unlimited Videos, Loom AI Access, No Branding, Live Rewind, Password Protection, Video Download, Embed Links",
+    "original_price": "₹19,000+/year",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "48.0",
+    "name": "Claude AI",
+    "plan": "Pro Plan",
+    "description": "Advanced AI Assistant. Claude Code Access, Claude Cowork, Unlimited Projects, Advanced Research Tools, Multiple Claude Models, Claude for Excel/PowerPoint (Beta)",
+    "original_price": "₹14,500+ GST",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "49.0",
+    "name": "Claude AI",
+    "plan": "Pro Plan (2 Months)",
+    "description": "Everything in Free Plan + More Usage, Claude Code Access, Claude Cowork, Unlimited Projects, Advanced Research Tools",
+    "original_price": "₹4,000 + GST",
+    "validity": "2 Months"
+  },
+  {
+    "s_no": "50.0",
+    "name": "Claude Max 20x",
+    "plan": "API Key",
+    "description": "Premium Claude with MAX usage (up to 20x), Opus model, Claude Code + Projects, Extended context, Priority processing, No training on content",
+    "original_price": "$200+Tax/month",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "51.0",
+    "name": "Claude API",
+    "plan": "Credit Bundle",
+    "description": "API access to Opus, Sonnet & Haiku models. $100-$10,000 credit options, Full API Support, Custom Dashboard + Proxy Endpoint, High Rate Limits",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "52.0",
+    "name": "Anything AI",
+    "plan": "Pro Plan",
+    "description": "AI app builder for websites, mobile apps, tools, SaaS. AI-powered coding, Web search, Built-in image generation, Postgres support, AI model integrations (GPT, Claude, Gemini)",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "53.0",
+    "name": "Asana",
+    "plan": "Advanced Plan",
+    "description": "Project management tool. Advanced Plan features for up to 100 seats",
+    "original_price": "₹2,89,999 + GST",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "54.0",
+    "name": "CapCut",
+    "plan": "Pro Plan",
+    "description": "AI Video Editing. AI Video Generator, Script to Video, Auto Captions, AI Background Remover, Pro Effects, Premium Music, Unlimited Stock Assets, 4K Export",
+    "original_price": "Not specified",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "55.0",
+    "name": "Render",
+    "plan": "$25,000 Credits Pack",
+    "description": "Cloud hosting platform. Full-Stack Services, Auto Deploy & CI/CD, Postgres DB, Advanced Security, Global Network, Custom Domains, Zero-Downtime Deploys, Docker Builds",
+    "original_price": "₹2,35,099+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "56.0",
+    "name": "Render",
+    "plan": "Credits Pack",
+    "description": "$10,000 Render Credits, 1 Year Credit Validity, Deploy full-stack apps, Custom domains, Global CDN",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "57.0",
+    "name": "Firecrawl",
+    "plan": "Credits Pack",
+    "description": "Web scraping & crawling. 350K/100K/150K/250K Credits options, Map & Structured Data Extraction, Advanced Search, Browser Agent Access",
+    "original_price": "₹9,999+ GST / ₹15,000+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "58.0",
+    "name": "Grammarly",
+    "plan": "Premium/Pro Plan",
+    "description": "AI Writing Assistant. Grammar & Style Check, Plagiarism Detection, Tone Suggestions, Vocabulary Enhancement",
+    "original_price": "$144 / ₹12,488 (₹12,999+ GST)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "59.0",
+    "name": "Mobbin",
+    "plan": "Pro Plan",
+    "description": "UI/UX Design Inspiration. 1000+ Curated Mobile & Web Apps, UX Flows, Screen Recordings, Filter by Platform/Industry, Save & Organize",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "60.0",
+    "name": "Adobe Creative Cloud",
+    "plan": "Pro Plus Plan",
+    "description": "All 25 Adobe Apps + Beta Apps, Nano + Firefly, 4000 AI Credits/Month, 1TB Cloud Storage, 2 Devices, Commercial License, 24/7 Adobe Support",
+    "original_price": "Not specified",
+    "validity": "4 Months / 12 Months"
+  },
+  {
+    "s_no": "61.0",
+    "name": "GitHub Student Developer Pack",
+    "plan": "Student Pack",
+    "description": "Benefits worth over $200,000. GitHub Copilot Pro, Heroku 24M, DataCamp 3M, Frontend Masters 6M, MongoDB Atlas $50, Bootstrap Studio, Educative 6M, Scrimba 1M, AWS Credits, JetBrains IDEs",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "62.0",
+    "name": "Supabase",
+    "plan": "Pro Plan",
+    "description": "Open-source Firebase alternative. $10 Compute Credits, Email Support, Daily Backups, 7-Day Retention, 100K MAU, 8GB Database, 250GB Bandwidth",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "63.0",
+    "name": "Supabase",
+    "plan": "$300 Credits",
+    "description": "Database cloud credits for development",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "64.0",
+    "name": "Vapi",
+    "plan": "$200 Credits",
+    "description": "Voice AI Platform. Build & deploy AI-powered voice agents, Real-time conversation with LLMs, OpenAI/ElevenLabs integration, Web & phone call integration",
+    "original_price": "$200 (≈₹16,800)",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "65.0",
+    "name": "Vapi",
+    "plan": "$50 Credits (Free Coupon)",
+    "description": "Voice AI Platform with free coupon credits",
+    "original_price": "Free",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "66.0",
+    "name": "ClickUp",
+    "plan": "Business Plan",
+    "description": "Project management. Business plan features for team collaboration",
+    "original_price": "Not specified",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "67.0",
+    "name": "ClickUp",
+    "plan": "Enterprise Plan",
+    "description": "Enterprise Plan + $3000 Credits. Unlimited Users, Enterprise Automations, Advanced Dashboards, Custom Roles, 1000+ Integrations, Priority Support, SAML SSO & SCIM",
+    "original_price": "₹2,84,999+ GST / $3000+",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "68.0",
+    "name": "Figma",
+    "plan": "Pro Plan",
+    "description": "UI/UX Design Tool. 1 Full Seat, 3000 AI Credits/Month, Unlimited Files, Team Libraries, Advanced Dev Mode, MCP Server Access",
+    "original_price": "$40 (₹3,782)",
+    "validity": "2 Months"
+  },
+  {
+    "s_no": "69.0",
+    "name": "DataCamp",
+    "plan": "Premium Plan",
+    "description": "Online learning platform. Unlimited Courses, Python, AI & ChatGPT, SQL, Power BI Analytics, Industry Certifications, Hands-on Projects",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "70.0",
+    "name": "n8n.io",
+    "plan": "Starter Plan",
+    "description": "Workflow automation platform. 2.5K workflow executions, 5 active workflows, Hosted by n8n, Unlimited users, Forum support",
+    "original_price": "240€ (₹23,960)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "71.0",
+    "name": "Webflow",
+    "plan": "CMS Plan",
+    "description": "No-code website builder & CMS. Content-driven sites, 1,000 CMS items, Custom domains + SSL",
+    "original_price": "$300+",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "72.0",
+    "name": "Webflow",
+    "plan": "Business Plan",
+    "description": "No-code website builder. Advanced SEO & analytics, 400GB bandwidth, 10,000 form submissions, Team collaboration",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "73.0",
+    "name": "Webflow",
+    "plan": "Growth Plan",
+    "description": "No-code website builder. Up to 75 Seats, Advanced CMS, Custom Code, Enhanced Collaboration, Role-Based Permissions, High Traffic Scaling",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "74.0",
+    "name": "Vercel v0",
+    "plan": "AI App Builder",
+    "description": "Build Full-Stack Apps & AI Agents. AI Agent generation, UI + Backend from prompts, Deployment-ready code, Modern frameworks & APIs",
+    "original_price": "$240",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "75.0",
+    "name": "Merlin AI",
+    "plan": "Pro Plan",
+    "description": "AI Assistant. Unlimited Basic Models, 50x Plus-Level Models, GPT-5/Claude Sonnet 4.5 Access, AI Image Generation, 70+ AI Tools, Chrome Extension",
+    "original_price": "₹3,499 + GST",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "76.0",
+    "name": "Adobe Express",
+    "plan": "Plan",
+    "description": "Design and content creation tool",
+    "original_price": "Not specified",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "77.0",
+    "name": "LinkedIn Career Premium",
+    "plan": "Premium Plan",
+    "description": "InMails, See Who Viewed Profile, Unlimited People Browsing, Job & Applicant Insights, LinkedIn Learning",
+    "original_price": "Not specified",
+    "validity": "2-3 Months"
+  },
+  {
+    "s_no": "78.0",
+    "name": "LinkedIn Business Premium",
+    "plan": "Business Plan",
+    "description": "Professional networking with Business Premium features",
+    "original_price": "Not specified",
+    "validity": "2 Months"
+  },
+  {
+    "s_no": "79.0",
+    "name": "LinkedIn Sales Navigator",
+    "plan": "Core/Advanced Plan",
+    "description": "Sales prospecting with Advanced/Core plan features",
+    "original_price": "Not specified",
+    "validity": "1-2 Months"
+  },
+  {
+    "s_no": "80.0",
+    "name": "Jira",
+    "plan": "Premium Plan",
+    "description": "Project tracking & issue management. Premium plan features",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "81.0",
+    "name": "Jira",
+    "plan": "Premium Plan (Private Invite)",
+    "description": "Jira Premium with private invitation access",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "82.0",
+    "name": "Confluence",
+    "plan": "Premium Plan",
+    "description": "Team collaboration & documentation. Premium plan features",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "83.0",
+    "name": "Jira Product Discovery",
+    "plan": "Plan",
+    "description": "Product management & discovery tool",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "84.0",
+    "name": "Autodesk",
+    "plan": "All Apps 3-Year",
+    "description": "37+ Autodesk Apps including AutoCAD, Revit, Fusion 360, Maya, Civil 3D, 3ds Max, Forma, Arnold",
+    "original_price": "₹1,50,000",
+    "validity": "36 Months"
+  },
+  {
+    "s_no": "85.0",
+    "name": "GitLab",
+    "plan": "Ultimate Plan",
+    "description": "DevOps platform. Ultimate plan with all features",
+    "original_price": "₹45,979+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "86.0",
+    "name": "Intercom",
+    "plan": "Advanced Plan + Fin AI",
+    "description": "AI-Powered Customer Support. Advanced plan + Fin AI Copilot, Up to 6 Seats, Unlimited Messages, AI Chatbot, Email/Chat tools, CRM + Helpdesk",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "87.0",
+    "name": "Wispr Flow",
+    "plan": "Pro Plan",
+    "description": "Workflow automation. Drag-and-Drop Builder, Automate Repetitive Tasks, Real-Time Updates, Slack/Jira/Notion Integrations",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "88.0",
+    "name": "Hootsuite",
+    "plan": "Standard/Advanced Plan",
+    "description": "Social media management. Standard: 10 Social Accounts. Advanced: Unlimited Accounts. Post Scheduling, Analytics, Social Listening",
+    "original_price": "₹7,80,000 / ₹30,00,000",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "89.0",
+    "name": "Kling AI",
+    "plan": "Standard/Pro/Premier Plan",
+    "description": "AI Video Generation with Standard, Pro, and Premier tier options",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "90.0",
+    "name": "VideoIdeas.ai",
+    "plan": "Pro Plan",
+    "description": "AI Video Ideas Generator. $99 plan for content creators",
+    "original_price": "$99",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "91.0",
+    "name": "Airtable",
+    "plan": "Team Plan",
+    "description": "No-code database. Up to 8 Users, Advanced Bases & Views, Automation & Workflow Builder, Extensions & App Integrations",
+    "original_price": "$240+",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "92.0",
+    "name": "Airtable",
+    "plan": "Business Plan",
+    "description": "No-code database. Up to 3 Users with Business features",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "93.0",
+    "name": "Airtable",
+    "plan": "$2000 Credits",
+    "description": "Airtable database credits for development",
+    "original_price": "₹1,92,000+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "94.0",
+    "name": "Customer.io",
+    "plan": "Plan",
+    "description": "Customer engagement & marketing automation platform",
+    "original_price": "Not specified",
+    "validity": "5-6 Months"
+  },
+  {
+    "s_no": "95.0",
+    "name": "TextShift",
+    "plan": "Pro Plan",
+    "description": "AI Humanizer. Advanced human-style rewriting, Tone adjustments, Multiple language support, Quality refinement",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "96.0",
+    "name": "Pica OS",
+    "plan": "1 Year",
+    "description": "AI-powered workspace & productivity tools. Cloud-based environment, Clean UI",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "97.0",
+    "name": "Mem0 AI",
+    "plan": "Pro Plan",
+    "description": "AI with Memory. Persistent AI Memory, Unlimited Memories, Faster Responses, Advanced Analytics + Graph Memory, Easy Integration",
+    "original_price": "$249/month",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "98.0",
+    "name": "Descript",
+    "plan": "Creator Plan",
+    "description": "Video & Podcast Editing. AI Tools, Eye Contact, 30 Hrs Transcription/Month, 4K Export, AI Speech, AI Dubbing, AI Avatars, Stock Library",
+    "original_price": "$400+",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "99.0",
+    "name": "Spotify Premium",
+    "plan": "Premium",
+    "description": "Ad-free listening, Personalized playlists, High-quality streaming, Offline mode, Collaborative playlists",
+    "original_price": "Not specified",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "100.0",
+    "name": "YouTube Premium",
+    "plan": "Premium",
+    "description": "Ad-free YouTube, Background play, Downloads, YouTube Music",
+    "original_price": "Not specified",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "101.0",
+    "name": "Netflix",
+    "plan": "Premium 4K UHD",
+    "description": "1 Month, 1 Device, 4K Ultra HD, No Logout Issues",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "102.0",
+    "name": "HeyGen",
+    "plan": "Creator Plan",
+    "description": "AI Video Creation. Unlimited Videos, 30-Min Per Video, 1080p Export, Custom Digital Twin Avatar, 700+ Avatars, Voice Cloning, 175+ Languages, Brand Kit, No Watermark",
+    "original_price": "$29/seat (₹2,999+ GST)",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "103.0",
+    "name": "Devin AI",
+    "plan": "Core Plan",
+    "description": "AI Software Engineer. Writes & debugs full-stack code, Integrates with GitHub/Jira, Builds production-ready apps, Learns your repo",
+    "original_price": "₹70,487 + GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "104.0",
+    "name": "Devin AI",
+    "plan": "Pro Plan (1 Month)",
+    "description": "AI Software Engineer Pro plan for 1 month",
+    "original_price": "$20",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "105.0",
+    "name": "MongoDB Atlas",
+    "plan": "$500 Cloud Credits",
+    "description": "Database cloud credits for hosting, APIs & app development",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "106.0",
+    "name": "Agentiqa AI",
+    "plan": "Pro Plan",
+    "description": "AI Agent Builder. 3000 AI Credits, Cloud Execution, Parallel Runs, Advanced AI Agent Execution, Priority Support",
+    "original_price": "$57",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "107.0",
+    "name": "Sarvam AI",
+    "plan": "25,000 API Credits",
+    "description": "Indian AI model. 25,000 API Credits, Sarvam-105B & Sarvam-30B models, High-performance Chat APIs",
+    "original_price": "₹24,999 + GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "108.0",
+    "name": "Zapier",
+    "plan": "Agent Plan",
+    "description": "Workflow automation. 12 Months Agent Pro, Advanced Zaps, 2,000+ App Integrations, Unlimited Tasks",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "109.0",
+    "name": "CorelDRAW Graphics Suite",
+    "plan": "Lifetime / 1 Year",
+    "description": "Professional vector graphics. CorelDRAW + Photo-Paint, Windows & Mac, Cloud Access, Commercial Use",
+    "original_price": "Not specified",
+    "validity": "Lifetime / 12 Months"
+  },
+  {
+    "s_no": "110.0",
+    "name": "CorelDRAW Technical Suite",
+    "plan": "Various Years",
+    "description": "Technical suite including Graphics Suite. Multiple versions (2017-2025)",
+    "original_price": "Not specified",
+    "validity": "Lifetime"
+  },
+  {
+    "s_no": "111.0",
+    "name": "Power BI",
+    "plan": "Premium Plan",
+    "description": "Business analytics platform. 2 Year access",
+    "original_price": "₹28,560",
+    "validity": "24 Months"
+  },
+  {
+    "s_no": "112.0",
+    "name": "Miro",
+    "plan": "Business Plan / Credits",
+    "description": "Collaborative whiteboarding. Starter: Up to 10 Users, Business: Up to 8 Users. $500/$1000 Credits available",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "113.0",
+    "name": "Antigravity",
+    "plan": "Ultra Subscription",
+    "description": "AI tool with 25,000 Credits Ultra Plan for heavy usage, fast workflows & powerful performance",
+    "original_price": "Not specified",
+    "validity": "25 Days Warranty"
+  },
+  {
+    "s_no": "114.0",
+    "name": "EdX",
+    "plan": "Official Subscription",
+    "description": "Online learning. 300+ Professional Certificates, Genuine Official Subscription, Full Warranty",
+    "original_price": "₹35,000",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "115.0",
+    "name": "Higgsfield AI",
+    "plan": "Account",
+    "description": "AI creative tool for video generation",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "116.0",
+    "name": "Beautiful.ai",
+    "plan": "Pro Plan",
+    "description": "AI Presentation maker",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "117.0",
+    "name": "NordVPN",
+    "plan": "Premium",
+    "description": "VPN service for secure browsing",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "118.0",
+    "name": "AppsFlyer",
+    "plan": "24,000 Units Pack",
+    "description": "Mobile attribution & analytics. OneLink Deep-Linking, Smart Banners, Web-to-App Tracking, Referrals, Campaign Support, Cross-Promotion",
+    "original_price": "₹19,999 + GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "119.0",
+    "name": "Google VEO3 Ultra",
+    "plan": "Premium AI Video Plan",
+    "description": "VEO 3.1 Ultra Video Generation, Cinematic output, Advanced AI scene understanding, Text-to-Video + Frame-to-Video, Consistent characters, 4K style output, 25,000 Credits/Month",
+    "original_price": "₹24,500",
+    "validity": "30 Days"
+  },
+  {
+    "s_no": "120.0",
+    "name": "Warp.dev",
+    "plan": "Pro Plan",
+    "description": "AI Terminal & Development Environment. Blazing-fast performance, AI command suggestions, Block-based workflow, Built-in AI assistant",
+    "original_price": "$200+",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "121.0",
+    "name": "Linear",
+    "plan": "Business Plan",
+    "description": "Issue tracking & project management for teams",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "122.0",
+    "name": "Linear",
+    "plan": "Basic Plan",
+    "description": "Issue tracking with unlimited issues + 5 teams",
+    "original_price": "Not specified",
+    "validity": "3 Months (Giveaway)"
+  },
+  {
+    "s_no": "123.0",
+    "name": "Duolingo Super",
+    "plan": "Super Family / Pro",
+    "description": "Language learning with Super features. Family plan available",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "124.0",
+    "name": "Apple Music",
+    "plan": "Individual Plan",
+    "description": "Music streaming on your mail",
+    "original_price": "Not specified",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "125.0",
+    "name": "Cult Fit Elite",
+    "plan": "Elite Pass",
+    "description": "Premium gym access. Multiple centers, Expert trainers, Strength/Cardio/Fitness programs",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "126.0",
+    "name": "Hostinger",
+    "plan": "Business Plan",
+    "description": "Web hosting. Up to 50 Websites, 30 AI Credits, 50GB NVMe, 5 Free Mailboxes, Node.js Apps, Daily Backups, AI WordPress Builder",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "127.0",
+    "name": "Sentry.io",
+    "plan": "Teams/Business Plan",
+    "description": "Application monitoring & error tracking",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "128.0",
+    "name": "Linktree",
+    "plan": "Pro Plan",
+    "description": "Link-in-bio tool with Pro features",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "129.0",
+    "name": "Retool",
+    "plan": "Teams & Business Plan",
+    "description": "Internal tools builder for teams and businesses",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "130.0",
+    "name": "MailerSend",
+    "plan": "Starter Plan",
+    "description": "Email sending platform",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "131.0",
+    "name": "Murf AI",
+    "plan": "$1500 API Credits",
+    "description": "AI Voice Generation platform with API credits",
+    "original_price": "₹1,41,999 + GST",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "132.0",
+    "name": "Axure RP",
+    "plan": "Team Plan",
+    "description": "Prototyping tool for UX designers. Team collaboration features",
+    "original_price": "$49/month",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "133.0",
+    "name": "Anam AI",
+    "plan": "Growth Plan",
+    "description": "AI automation & workflow builder. Build agents & smart systems",
+    "original_price": "Not specified",
+    "validity": "7 Months"
+  },
+  {
+    "s_no": "134.0",
+    "name": "AgentRouter",
+    "plan": "$2800 Credits",
+    "description": "AI agent routing & orchestration platform",
+    "original_price": "$2,800",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "135.0",
+    "name": "Gumloop",
+    "plan": "Pro Plan",
+    "description": "AI workflow automation platform",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "136.0",
+    "name": "Figma",
+    "plan": "Pro Plan (2 Year)",
+    "description": "UI/UX Design with Pro features on Google login",
+    "original_price": "Not specified",
+    "validity": "24 Months"
+  },
+  {
+    "s_no": "137.0",
+    "name": "Lumion Pro",
+    "plan": "Pro Plan",
+    "description": "3D architectural visualization software",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "138.0",
+    "name": "JetBrains",
+    "plan": "All IDEs Pack",
+    "description": "Professional IDEs for all programming languages",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "139.0",
+    "name": "SolidWorks",
+    "plan": "Plan",
+    "description": "3D CAD design software",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "140.0",
+    "name": "Speechify",
+    "plan": "Premium Plan",
+    "description": "AI Text-to-Speech. 1000+ voices, 60+ languages, 5x speed, Scan & listen, AI summaries, Voice typing, Podcast generator",
+    "original_price": "$139 (₹12,488 / ₹12,999+ GST)",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "141.0",
+    "name": "ChatPRD",
+    "plan": "Pro Plan",
+    "description": "AI Product Requirements Document tool",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "142.0",
+    "name": "Factory",
+    "plan": "Pro Plan",
+    "description": "AI development tool",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "143.0",
+    "name": "Granola",
+    "plan": "Business Plan",
+    "description": "AI note-taking tool",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "144.0",
+    "name": "Warp Build",
+    "plan": "Pro Plan",
+    "description": "AI development environment",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "145.0",
+    "name": "PostHog",
+    "plan": "Pro Plan",
+    "description": "Product analytics platform",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "146.0",
+    "name": "Magic Pattern",
+    "plan": "Starter Plan",
+    "description": "AI design pattern generator",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "147.0",
+    "name": "Canva",
+    "plan": "Business Plan",
+    "description": "Design platform. Premium templates, Brand Kits, Magic Resize, Team collaboration, Export for social/web/print",
+    "original_price": "$200",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "148.0",
+    "name": "Canva",
+    "plan": "Pro Plan (Lifetime)",
+    "description": "Design platform with lifetime Pro access via invitation",
+    "original_price": "Not specified",
+    "validity": "Lifetime"
+  },
+  {
+    "s_no": "149.0",
+    "name": "Rezi AI",
+    "plan": "Lifetime Deal",
+    "description": "AI Resume Builder. Unlimited Resumes & Cover Letters, AI Job Matching & ATS Optimization, 1 Year Warranty",
+    "original_price": "Not specified",
+    "validity": "Lifetime"
+  },
+  {
+    "s_no": "150.0",
+    "name": "PNGTree",
+    "plan": "Premium",
+    "description": "Design assets library (lifetime access)",
+    "original_price": "Not specified",
+    "validity": "Lifetime"
+  },
+  {
+    "s_no": "151.0",
+    "name": "Flixier",
+    "plan": "Pro Plan",
+    "description": "Online video editor",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "152.0",
+    "name": "Movavi",
+    "plan": "Unlimited (1 PC)",
+    "description": "Video editing software for 1 PC",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "153.0",
+    "name": "Rive.app",
+    "plan": "Cadet Plan",
+    "description": "Interactive animation platform",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "154.0",
+    "name": "Leads.cm",
+    "plan": "Subscription",
+    "description": "Lead generation tool",
+    "original_price": "Not specified",
+    "validity": "6 Months"
+  },
+  {
+    "s_no": "155.0",
+    "name": "Cal.com",
+    "plan": "Teams Plan",
+    "description": "Scheduling platform for teams",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "156.0",
+    "name": "Planoly",
+    "plan": "Starter Plan",
+    "description": "Social media planning & scheduling",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "157.0",
+    "name": "Hotspot Shield VPN",
+    "plan": "Premium Plan",
+    "description": "VPN service for secure browsing",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "158.0",
+    "name": "Stripe Payment Fee Waiver",
+    "plan": "Deal",
+    "description": "Waived Stripe fees on $20,000 in payment processing. Save up to $500",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "159.0",
+    "name": "OpenAI API Credits",
+    "plan": "$300 Credits",
+    "description": "ChatGPT API credits for development. Access across OpenAI models through LLM API",
+    "original_price": "$300",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "160.0",
+    "name": "Claude AI API Credits",
+    "plan": "$1,000 Credits",
+    "description": "Anthropic Claude API credits. Access through OpenRouter's API for deep thinking & analysis",
+    "original_price": "$1,000",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "161.0",
+    "name": "OpenRouter",
+    "plan": "$1,000 Credits",
+    "description": "Unified API for 300+ LLM models (Claude, OpenAI, Gemini, etc.)",
+    "original_price": "$1,000",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "162.0",
+    "name": "Datadog",
+    "plan": "$100,000 Credits",
+    "description": "Cloud monitoring & analytics platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "163.0",
+    "name": "Chroma DB",
+    "plan": "$1,000 Credits",
+    "description": "Vector database for AI applications",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "164.0",
+    "name": "ChatGPT 5.2 Plus",
+    "plan": "Plus Plan",
+    "description": "Latest GPT-5.2 with Advanced Reasoning, Expanded Messaging, File & Image Uploads, Deep Research Mode, Codex Agent",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "165.0",
+    "name": "Windows 10/11",
+    "plan": "Lifetime Key",
+    "description": "Operating system lifetime license key",
+    "original_price": "Not specified",
+    "validity": "Lifetime"
+  },
+  {
+    "s_no": "166.0",
+    "name": "Google VEO3 Ultra",
+    "plan": "Giveaway (25K Credits)",
+    "description": "Free Google VEO3 Ultra account with 25,000 credits",
+    "original_price": "Free",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "167.0",
+    "name": "Google AI Pro",
+    "plan": "Yearly Plan",
+    "description": "Google AI tools for professionals",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "168.0",
+    "name": "v0.dev",
+    "plan": "Pro Plan",
+    "description": "AI app builder by Vercel",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "169.0",
+    "name": "Framer",
+    "plan": "Scale Plan",
+    "description": "Advanced Framer plan with Scale features",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "170.0",
+    "name": "ChatGPT Business",
+    "plan": "Plan",
+    "description": "ChatGPT for business use",
+    "original_price": "Not specified",
+    "validity": "1 Month"
+  },
+  {
+    "s_no": "171.0",
+    "name": "Canva Pro",
+    "plan": "1 Year (with Adobe)",
+    "description": "Bonus with Adobe Creative Cloud yearly purchase",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "172.0",
+    "name": "Make.com",
+    "plan": "Pro Plan",
+    "description": "Automation platform. 40,000 Credits for 3 months",
+    "original_price": "Not specified",
+    "validity": "3 Months"
+  },
+  {
+    "s_no": "173.0",
+    "name": "Jasper AI",
+    "plan": "Plan",
+    "description": "AI content writing platform",
+    "original_price": "$59-69/month",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "174.0",
+    "name": "Leonardo.ai",
+    "plan": "Plan",
+    "description": "AI Image Generation combined with Canva Business",
+    "original_price": "Not specified",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "175.0",
+    "name": "AWS Claude AI (via Bedrock)",
+    "plan": "Free Tier",
+    "description": "Claude AI access through Amazon Bedrock (Free)",
+    "original_price": "Free",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "176.0",
+    "name": "Gemini Enterprise",
+    "plan": "Business Plan",
+    "description": "Enterprise Google AI with 1 month free trial",
+    "original_price": "Not specified",
+    "validity": "1 Month (Free Trial)"
+  },
+  {
+    "s_no": "177.0",
+    "name": "Microsoft 365 Business Premium",
+    "plan": "Teams 50 Users",
+    "description": "Business Microsoft 365 for 50 users with Teams",
+    "original_price": "₹99,999+ GST",
+    "validity": "12 Months"
+  },
+  {
+    "s_no": "178.0",
+    "name": "Make.com",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "179.0",
+    "name": "n8n",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "180.0",
+    "name": "Laminar AI",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "181.0",
+    "name": "Airtable",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "182.0",
+    "name": "Customer.io",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "183.0",
+    "name": "Gumloop",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "184.0",
+    "name": "Replit",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "185.0",
+    "name": "Bolt",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "186.0",
+    "name": "Lovable",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "187.0",
+    "name": "Lovable Pro",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "188.0",
+    "name": "Devin",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "189.0",
+    "name": "Factory",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "190.0",
+    "name": "CodeRabbit",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "191.0",
+    "name": "Warp",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "192.0",
+    "name": "Amp",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "193.0",
+    "name": "ChatPRD",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "194.0",
+    "name": "Supabase",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "195.0",
+    "name": "Render",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "196.0",
+    "name": "Vapi",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "197.0",
+    "name": "JetBrains",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "198.0",
+    "name": "FlutterFlow",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "199.0",
+    "name": "CodeCrafter",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "200.0",
+    "name": "Railway",
+    "plan": "",
+    "description": "AI-powered coding and development tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "201.0",
+    "name": "ChatGPT",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "202.0",
+    "name": "Perplexity AI",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "203.0",
+    "name": "DeepSeek",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "204.0",
+    "name": "Grok AI",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "205.0",
+    "name": "Ask AI",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "206.0",
+    "name": "Manus",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "207.0",
+    "name": "Gemini AI Pro",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "208.0",
+    "name": "Gemini Veo 3",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "209.0",
+    "name": "Google AI Ultra",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "210.0",
+    "name": "Jasper AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "211.0",
+    "name": "Jenni AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "212.0",
+    "name": "Scite AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "213.0",
+    "name": "Word AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "214.0",
+    "name": "Paperpal",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "215.0",
+    "name": "Wordtune",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "216.0",
+    "name": "QuillBot",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "217.0",
+    "name": "Hix AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "218.0",
+    "name": "WriteHuman",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "219.0",
+    "name": "BypassGPT",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "220.0",
+    "name": "Festa AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "221.0",
+    "name": "Textshift",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "222.0",
+    "name": "Quetext",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "223.0",
+    "name": "Grammarly",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "224.0",
+    "name": "Copy.ai",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "225.0",
+    "name": "Copymatic",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "226.0",
+    "name": "Rezi",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "227.0",
+    "name": "Superhuman",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "228.0",
+    "name": "Raycast",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "229.0",
+    "name": "Notion",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "230.0",
+    "name": "Granola",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "231.0",
+    "name": "Otter.ai",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "232.0",
+    "name": "Wispr Flow",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "233.0",
+    "name": "Loom",
+    "plan": "",
+    "description": "Productivity and collaboration tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "234.0",
+    "name": "Jira",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "235.0",
+    "name": "Asana",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "236.0",
+    "name": "ClickUp",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "237.0",
+    "name": "Linear",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "238.0",
+    "name": "Miro Business",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "239.0",
+    "name": "Mobbin",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "240.0",
+    "name": "Lucidchart",
+    "plan": "",
+    "description": "Project management and collaboration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "241.0",
+    "name": "SEMrush",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "242.0",
+    "name": "Moz Pro",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "243.0",
+    "name": "Ubersuggest",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "244.0",
+    "name": "Mangools",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "245.0",
+    "name": "Storybase",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "246.0",
+    "name": "SEO Optimer",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "247.0",
+    "name": "Woorank",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "248.0",
+    "name": "SpyFu",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "249.0",
+    "name": "SEO Site Checkup",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "250.0",
+    "name": "AnswerThePublic",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "251.0",
+    "name": "Indexification",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "252.0",
+    "name": "Rivalflow",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "253.0",
+    "name": "Serpstat",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "254.0",
+    "name": "Ahrefs",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "255.0",
+    "name": "AlsoAsked",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "256.0",
+    "name": "Similarweb",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "257.0",
+    "name": "VidIQ",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "258.0",
+    "name": "StockAI",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "259.0",
+    "name": "Hootsuite",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "260.0",
+    "name": "Sell The Trend",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "261.0",
+    "name": "Niche Scraper",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "262.0",
+    "name": "SmartScout",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "263.0",
+    "name": "ZIK Analytics",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "264.0",
+    "name": "Pexda",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "265.0",
+    "name": "Helium 10",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "266.0",
+    "name": "Canva Pro",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "267.0",
+    "name": "Canva Edu",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "268.0",
+    "name": "Canva Business Pro",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "269.0",
+    "name": "Figma",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "270.0",
+    "name": "Framer",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "271.0",
+    "name": "Magic Pattern",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "272.0",
+    "name": "Leonardo.ai",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "273.0",
+    "name": "Placeit",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "274.0",
+    "name": "Picsart",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "275.0",
+    "name": "Prezi AI",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "276.0",
+    "name": "Beautiful.ai",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "277.0",
+    "name": "Vecteezy",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "278.0",
+    "name": "Envato Elements",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "279.0",
+    "name": "Flaticon",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "280.0",
+    "name": "Design.ai",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "281.0",
+    "name": "FotoJet",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "282.0",
+    "name": "Freepik",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "283.0",
+    "name": "VistaCreate",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "284.0",
+    "name": "CorelDraw",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "285.0",
+    "name": "Lumion",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "286.0",
+    "name": "Autodesk",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "287.0",
+    "name": "SolidWorks",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "288.0",
+    "name": "Linktree",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "289.0",
+    "name": "Pngtree",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "290.0",
+    "name": "Adobe Firefly",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "291.0",
+    "name": "Adobe Express",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "292.0",
+    "name": "Gamma",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "293.0",
+    "name": "Webflow",
+    "plan": "",
+    "description": "Website builder platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "294.0",
+    "name": "Filmora 15",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "295.0",
+    "name": "Kapwing",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "296.0",
+    "name": "Descript",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "297.0",
+    "name": "ElevenLabs",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "298.0",
+    "name": "Motion Array",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "299.0",
+    "name": "Storyblocks",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "300.0",
+    "name": "Murf AI",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "301.0",
+    "name": "Deepgram",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "302.0",
+    "name": "Speechify",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "303.0",
+    "name": "CapCut",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "304.0",
+    "name": "InVideo",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "305.0",
+    "name": "PostHog",
+    "plan": "",
+    "description": "Analytics and business intelligence tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "306.0",
+    "name": "Power BI",
+    "plan": "",
+    "description": "Analytics and business intelligence tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "307.0",
+    "name": "LinkedIn Sales Navigator",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "308.0",
+    "name": "LinkedIn Business Premium",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "309.0",
+    "name": "LinkedIn Career Premium",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "310.0",
+    "name": "Leads.cm",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "311.0",
+    "name": "Intercom",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "312.0",
+    "name": "Apify",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "313.0",
+    "name": "Firecrawl",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "314.0",
+    "name": "Social Media Data Extractor",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "315.0",
+    "name": "Justdial Data Extractor",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "316.0",
+    "name": "Google Map Data Extractor",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "317.0",
+    "name": "WhatsApp Marketing Software",
+    "plan": "",
+    "description": "Bulk messaging software",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "318.0",
+    "name": "Android Bulk Sender",
+    "plan": "",
+    "description": "Bulk messaging software",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "319.0",
+    "name": "WhatsApp Meta Verified API",
+    "plan": "",
+    "description": "Bulk messaging software",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "320.0",
+    "name": "ZEE5",
+    "plan": "",
+    "description": "Streaming and entertainment platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "321.0",
+    "name": "SonyLIV",
+    "plan": "",
+    "description": "Streaming and entertainment platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "322.0",
+    "name": "edX",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "323.0",
+    "name": "Brilliant",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "324.0",
+    "name": "Udemy",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "325.0",
+    "name": "Coursera",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "326.0",
+    "name": "Skillshare",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "327.0",
+    "name": "Scribd",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "328.0",
+    "name": "Everand",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "329.0",
+    "name": "SlideShare",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "330.0",
+    "name": "DataCamp",
+    "plan": "",
+    "description": "Online learning and courses platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "331.0",
+    "name": "Windows 10 Pro",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "332.0",
+    "name": "Windows 11 Pro",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "333.0",
+    "name": "MS Office 2021",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "334.0",
+    "name": "MS Office 2024",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "335.0",
+    "name": "MS Office 365 A1",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "336.0",
+    "name": "Microsoft 365 (generic)",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "337.0",
+    "name": "Adobe Acrobat 2019",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "338.0",
+    "name": "AceThinker PDF Editor",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "339.0",
+    "name": "NordVPN",
+    "plan": "",
+    "description": "Security and cloud storage tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "340.0",
+    "name": "Google Drive",
+    "plan": "",
+    "description": "Security and cloud storage tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "341.0",
+    "name": "Laminar AI",
+    "plan": "",
+    "description": "Workflow automation and integration platform",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "342.0",
+    "name": "Perplexity AI",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "343.0",
+    "name": "Grok AI",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "344.0",
+    "name": "Gemini AI Pro",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "345.0",
+    "name": "Gemini Veo 3",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "346.0",
+    "name": "Google AI Ultra",
+    "plan": "",
+    "description": "AI chat and large language model access",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "347.0",
+    "name": "Jasper AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "348.0",
+    "name": "Jenni AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "349.0",
+    "name": "Scite AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "350.0",
+    "name": "Word AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "351.0",
+    "name": "Hix AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "352.0",
+    "name": "Festa AI",
+    "plan": "",
+    "description": "AI-powered writing and content creation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "353.0",
+    "name": "Moz Pro",
+    "plan": "",
+    "description": "SEO and marketing research tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "354.0",
+    "name": "ZIK Analytics",
+    "plan": "",
+    "description": "E-commerce product research and analytics tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "355.0",
+    "name": "Prezi AI",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "356.0",
+    "name": "Envato Elements",
+    "plan": "",
+    "description": "Design and creative tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "357.0",
+    "name": "Filmora 15",
+    "plan": "",
+    "description": "Video, audio editing and stock media tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "358.0",
+    "name": "LinkedIn Sales Navigator",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "359.0",
+    "name": "LinkedIn Business Premium",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "360.0",
+    "name": "LinkedIn Career Premium",
+    "plan": "",
+    "description": "CRM, sales and lead generation tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "361.0",
+    "name": "Social Media Data Extractor",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "362.0",
+    "name": "Justdial Data Extractor",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "363.0",
+    "name": "Google Map Data Extractor",
+    "plan": "",
+    "description": "Data extraction and scraping tool",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "364.0",
+    "name": "WhatsApp Marketing Software",
+    "plan": "",
+    "description": "Bulk messaging software",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "365.0",
+    "name": "Android Bulk Sender",
+    "plan": "",
+    "description": "Bulk messaging software",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "366.0",
+    "name": "WhatsApp Meta Verified API",
+    "plan": "",
+    "description": "Bulk messaging software",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "367.0",
+    "name": "Windows 10 Pro",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "368.0",
+    "name": "Windows 11 Pro",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "369.0",
+    "name": "MS Office 2021",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "370.0",
+    "name": "MS Office 2024",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "371.0",
+    "name": "MS Office 365 A1",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "372.0",
+    "name": "Microsoft 365 (generic)",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "373.0",
+    "name": "Adobe Acrobat 2019",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  },
+  {
+    "s_no": "374.0",
+    "name": "AceThinker PDF Editor",
+    "plan": "",
+    "description": "Operating system, office suite and software license",
+    "original_price": "Not specified",
+    "validity": "Varies"
+  }
+]
