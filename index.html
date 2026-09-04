@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kobirul Softwares – Premium Verified Digital Tools & Subscriptions</title>
-  <meta name="description" content="India's leading digital tools hub. Verified Adobe Creative Cloud, Canva Pro, ChatGPT Plus, Claude Pro, Midjourney & top software licenses with instant delivery and refund guarantee.">
+  <title>Kobirul Softwares – India's Verified Digital Tools & Software Hub</title>
+  <meta name="description" content="Shop verified Adobe CC, Canva Pro, ChatGPT Plus, Claude Pro, Midjourney, Windows 11 & top software licenses with instant delivery, UPI payment, and 100% warranty.">
   
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="alternate icon" href="favicon.ico">
 
-  <!-- Google Fonts: Editorial Serif & Clean Sans -->
+  <!-- Google Fonts: Inter & Plus Jakarta Sans -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   
   <!-- Razorpay Payment Gateway SDK -->
@@ -24,90 +24,161 @@
 </head>
 <body>
 
-  <!-- Top Announcement Bar -->
+  <!-- Top Announcement Bar (Flipkart Style) -->
   <div class="announcement-bar">
     <div class="container announcement-content">
-      <span><i class="fa-solid fa-sparkles text-terracotta"></i> <strong>SPECIAL OFFER:</strong> Up to 60% OFF on All AI & Developer Tools! Instant License Activation.</span>
+      <div class="announcement-left">
+        <span class="announcement-badge">MEGA SALE</span>
+        <span>Up to <strong>80% OFF</strong> on 250+ AI Tools, Adobe Suites & Developer Software! Instant Delivery.</span>
+      </div>
       <div class="announcement-right">
-        <span class="support-link"><i class="fa-brands fa-whatsapp text-success"></i> WhatsApp Support: +91 98765 43210</span>
+        <a href="https://wa.me/919876543210" target="_blank" class="support-link">
+          <i class="fa-brands fa-whatsapp text-success" style="font-size:0.95rem;"></i> 24/7 WhatsApp Support: +91 98765 43210
+        </a>
       </div>
     </div>
   </div>
 
-  <!-- Main Navigation Header -->
+  <!-- Main Flipkart Header -->
   <header class="navbar"></header>
+
+  <!-- Flipkart Category Strip (Sub-Header) -->
+  <div class="category-strip">
+    <div class="container category-bar" id="category-bar">
+      <button class="cat-chip active" onclick="app.filterByCategory('All')">
+        <i class="fa-solid fa-border-all"></i> All Deals (250+)
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('AI Tools')">
+        <i class="fa-solid fa-brain"></i> AI Tools
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('Design Tools')">
+        <i class="fa-solid fa-palette"></i> Design & Creative
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('Video & Streaming')">
+        <i class="fa-solid fa-film"></i> Video & OTT
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('Developer & SaaS')">
+        <i class="fa-solid fa-code"></i> Developer & Cloud
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('Software & OS')">
+        <i class="fa-solid fa-laptop-code"></i> Windows & Office
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('SEO & Marketing')">
+        <i class="fa-solid fa-chart-line"></i> SEO & Marketing
+      </button>
+      <button class="cat-chip" onclick="app.filterByCategory('Bundles')">
+        <i class="fa-solid fa-layer-group" style="color:var(--fk-yellow-gold);"></i> Value Packs
+      </button>
+    </div>
+  </div>
 
   <!-- Mobile Drawer Overlay & Menu -->
   <div class="mobile-drawer-overlay" id="mobile-drawer-overlay" onclick="app.closeMobileDrawer()"></div>
   <div class="mobile-drawer" id="mobile-drawer">
     <div class="mobile-drawer-header">
-      <div class="logo">
-        <div class="logo-mark">K</div>
-        <div class="logo-text">Kobirul <span class="logo-serif">Softwares</span></div>
+      <div class="logo-link">
+        <div class="logo-main" style="color:var(--fk-blue);">
+          Kobirul <span style="color:var(--fk-yellow-gold);">Softwares</span>
+        </div>
+        <div class="logo-sub" style="color:var(--text-muted);">
+          <span>Explore</span> <span class="plus-badge" style="color:var(--fk-blue);">Plus ✦</span>
+        </div>
       </div>
       <button class="modal-close" onclick="app.closeMobileDrawer()" style="position:static;">&times;</button>
     </div>
     <div class="mobile-drawer-links">
-      <a href="#" class="mobile-drawer-link" onclick="app.switchView('store'); return false;"><i class="fa-solid fa-border-all text-terracotta"></i> Catalog (250+)</a>
-      <a href="#" class="mobile-drawer-link" onclick="app.filterByCategory('Bundles'); return false;"><i class="fa-solid fa-layer-group text-warning"></i> Bundles</a>
-      <a href="#" class="mobile-drawer-link" onclick="app.navigateToCustomerDashboard(); return false;"><i class="fa-solid fa-user text-success"></i> Dashboard</a>
-      <a href="#" class="mobile-drawer-link" onclick="app.openCustomerAuthModal(); return false;"><i class="fa-solid fa-right-to-bracket"></i> Sign In / Account</a>
+      <a href="#" class="mobile-drawer-link" onclick="app.switchView('store'); return false;">
+        <i class="fa-solid fa-border-all text-terracotta"></i> Catalog (250+ Tools)
+      </a>
+      <a href="#" class="mobile-drawer-link" onclick="app.filterByCategory('Bundles'); return false;">
+        <i class="fa-solid fa-layer-group text-warning"></i> Mega Value Bundles
+      </a>
+      <a href="#" class="mobile-drawer-link" onclick="app.navigateToCustomerDashboard(); return false;">
+        <i class="fa-solid fa-box-open text-success"></i> My Orders & Dashboard
+      </a>
+      <a href="#" class="mobile-drawer-link" onclick="app.openCustomerAuthModal(); return false;">
+        <i class="fa-solid fa-user-lock"></i> Customer Sign In / Register
+      </a>
     </div>
   </div>
 
   <!-- STORE VIEW -->
-  <main id="view-store" class="main-view active">
-    <!-- Hero Banner (Claude Style Editorial Aesthetics) -->
-    <section class="hero-section">
-      <div class="container hero-content">
-        <div class="hero-tag"><i class="fa-solid fa-shield-cat"></i> Verified Digital Subscriptions & Licenses</div>
-        <h1 class="hero-title">Intelligent software solutions, <span class="serif-italic">curated for creators</span></h1>
-        <p class="hero-subtitle">Instant access to Adobe CC, Canva Pro, ChatGPT Plus, Claude Pro & top developer software with full INR payment support (UPI, PhonePe, Paytm, Razorpay) and replacement warranty.</p>
-        
-        <!-- Trust Badges -->
-        <div class="trust-grid">
-          <div class="trust-card">
-            <i class="fa-solid fa-bolt trust-icon"></i>
-            <div>
-              <strong>Instant Activation</strong>
-              <span>Credentials delivered within 5-10 minutes</span>
+  <main id="view-store" class="main-view active container">
+    <!-- Flipkart Promotional Hero Banner Section -->
+    <section class="hero-banner-section">
+      <div class="flipkart-banner-card">
+        <div class="banner-content">
+          <div class="banner-badge">
+            <i class="fa-solid fa-bolt"></i> LIMITED TIME OFFER • INSTANT ACTIVATION
+          </div>
+          <h1 class="banner-title">
+            Top AI Tools, Adobe CC & Software <span>at Flat 80% OFF</span>
+          </h1>
+          <p class="banner-desc">
+            Verified digital subscriptions and software licenses. Instant automated delivery via WhatsApp & Email with 100% replacement guarantee and full UPI / NetBanking support.
+          </p>
+          <div class="banner-pills">
+            <div class="banner-pill-item">
+              <i class="fa-solid fa-shield-check"></i> K-Assured Genuine Licenses
+            </div>
+            <div class="banner-pill-item">
+              <i class="fa-solid fa-clock"></i> 5-Min License Delivery
+            </div>
+            <div class="banner-pill-item">
+              <i class="fa-solid fa-qrcode"></i> UPI, GPay, PhonePe, Paytm
             </div>
           </div>
-          <div class="trust-card">
-            <i class="fa-solid fa-qrcode trust-icon"></i>
-            <div>
-              <strong>UPI & NetBanking</strong>
-              <span>Razorpay, GPay, PhonePe, Paytm, QR Payment</span>
-            </div>
+        </div>
+
+        <div class="banner-graphic">
+          <div class="discount-circle">
+            <strong>80%</strong>
+            <span>OFF DEALS</span>
           </div>
-          <div class="trust-card">
-            <i class="fa-solid fa-shield-check trust-icon"></i>
-            <div>
-              <strong>100% Warranty</strong>
-              <span>Full duration replacement guarantee</span>
-            </div>
+        </div>
+      </div>
+
+      <!-- Trust Badges Strip -->
+      <div class="trust-strip">
+        <div class="trust-item">
+          <div class="trust-icon-box"><i class="fa-solid fa-bolt"></i></div>
+          <div class="trust-text">
+            <strong>Instant Activation</strong>
+            <span>Credentials delivered in 5-10 minutes</span>
+          </div>
+        </div>
+        <div class="trust-item">
+          <div class="trust-icon-box"><i class="fa-solid fa-shield-check"></i></div>
+          <div class="trust-text">
+            <strong>100% Replacement Warranty</strong>
+            <span>Full term license guarantee</span>
+          </div>
+        </div>
+        <div class="trust-item">
+          <div class="trust-icon-box"><i class="fa-solid fa-qrcode"></i></div>
+          <div class="trust-text">
+            <strong>Zero Fee UPI & Cards</strong>
+            <span>Secure Indian payment gateways</span>
           </div>
         </div>
       </div>
     </section>
 
     <!-- Product Catalog Section -->
-    <section class="catalog-section container">
-      <!-- Category Filter Tabs -->
-      <div class="category-bar" id="category-bar">
-        <button class="cat-chip active" onclick="app.filterByCategory('All')">All Tools (250+)</button>
-        <button class="cat-chip" onclick="app.filterByCategory('AI Tools')"><i class="fa-solid fa-brain"></i> AI Tools</button>
-        <button class="cat-chip" onclick="app.filterByCategory('Design Tools')"><i class="fa-solid fa-compass-drafting"></i> Design</button>
-        <button class="cat-chip" onclick="app.filterByCategory('Video & Streaming')"><i class="fa-solid fa-film"></i> Video & Streaming</button>
-        <button class="cat-chip" onclick="app.filterByCategory('Developer & SaaS')"><i class="fa-solid fa-code"></i> Developer & SaaS</button>
-        <button class="cat-chip" onclick="app.filterByCategory('Software & OS')"><i class="fa-solid fa-laptop-code"></i> Windows & Office</button>
-        <button class="cat-chip" onclick="app.filterByCategory('SEO & Marketing')"><i class="fa-solid fa-chart-pie"></i> SEO & Marketing</button>
-        <button class="cat-chip" onclick="app.filterByCategory('Bundles')"><i class="fa-solid fa-layer-group"></i> Value Packs</button>
+    <section class="catalog-section">
+      <!-- Section Header Ribbon -->
+      <div class="section-header-box">
+        <div class="section-title-wrap">
+          <h2 class="section-title"><i class="fa-solid fa-fire text-warning"></i> Deals of the Day & Verified Tools</h2>
+        </div>
+        <div class="deals-timer-badge">
+          <i class="fa-solid fa-clock"></i> <span>Offers Refresh Daily</span>
+        </div>
       </div>
 
-      <!-- Catalog Grid -->
+      <!-- Catalog Grid (Dynamic Products Injected via JS) -->
       <div class="products-grid" id="products-grid">
-        <!-- Dynamic Products Injected via JS -->
+        <!-- Products Injected via JS -->
       </div>
     </section>
   </main>
@@ -130,7 +201,7 @@
 
   <!-- PRODUCT DETAIL MODAL -->
   <div class="modal-overlay" id="product-modal">
-    <div class="modal-card">
+    <div class="modal-card modal-lg">
       <button class="modal-close" onclick="app.closeModal('product-modal')">&times;</button>
       <div class="modal-grid" id="modal-product-content">
         <!-- Content Injected via JS -->
@@ -143,7 +214,7 @@
     <div class="modal-card modal-lg">
       <button class="modal-close" onclick="app.closeModal('checkout-modal')">&times;</button>
       <div class="checkout-wrapper">
-        <h2><i class="fa-solid fa-lock text-terracotta"></i> Secure INR Checkout</h2>
+        <h2><i class="fa-solid fa-shield-check text-success"></i> Secure INR Checkout & Activation</h2>
         
         <div class="checkout-grid">
           <!-- Order Summary -->
@@ -152,7 +223,7 @@
             <div id="checkout-items-list" class="checkout-items"></div>
             <div class="checkout-total">
               <span>Total Amount (INR):</span>
-              <strong id="checkout-total-price" class="text-terracotta">₹0</strong>
+              <strong id="checkout-total-price" class="text-success">₹0</strong>
             </div>
           </div>
 
@@ -196,7 +267,7 @@
                 <button class="copy-btn" onclick="app.copyText('kobirul@upi')"><i class="fa-regular fa-copy"></i> Copy UPI</button>
               </div>
               <div style="margin-top:10px; text-align:center;">
-                <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=upi://pay?pa=kobirul@upi&pn=KobirulSoftwares" alt="UPI QR Code" style="width:120px; height:120px; border-radius:8px; margin:0 auto; display:block; border:1px solid var(--border-color);">
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=upi://pay?pa=kobirul@upi&pn=KobirulSoftwares" alt="UPI QR Code" style="width:120px; height:120px; border-radius:4px; margin:0 auto; display:block; border:1px solid var(--border-color);">
                 <small style="color:var(--text-muted); font-size:0.75rem; margin-top:4px; display:block;">Scan with GPay, PhonePe, Paytm, or BHIM app</small>
               </div>
             </div>
@@ -207,8 +278,8 @@
               <input type="file" id="cust-receipt" accept="image/*" class="file-input">
             </div>
 
-            <button class="btn btn-block btn-primary mt-4" onclick="app.submitOrder()">
-              <i class="fa-solid fa-circle-check"></i> Submit Payment Proof for Activation
+            <button class="btn btn-block btn-orange mt-4" onclick="app.submitOrder()">
+              <i class="fa-solid fa-circle-check"></i> Submit Payment Proof for Instant Activation
             </button>
           </div>
         </div>

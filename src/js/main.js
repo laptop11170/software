@@ -212,19 +212,29 @@ class KobirulProductionApp {
     content.innerHTML = `
       <div style="grid-column: 1/-1;">
         <div style="display:flex; gap:16px; align-items:center; margin-bottom:18px;">
-          <img src="${brandLogo}" style="width:70px; height:70px; border-radius:var(--radius-md); object-fit:contain; background:var(--bg-input); padding:10px;">
+          <div style="width:74px; height:74px; border-radius:var(--radius-xs); border:1px solid var(--border-color); background:var(--bg-input); display:flex; align-items:center; justify-content:center; padding:10px; flex-shrink:0;">
+            <img src="${brandLogo}" style="max-width:100%; max-height:100%; object-fit:contain;">
+          </div>
           <div>
-            <span class="product-category">${escapeHtml(p.category)}</span>
-            <h2 style="font-size:1.5rem; color:var(--text-main);">${escapeHtml(p.name)}</h2>
-            <div style="color:var(--warning); font-weight:700; font-size:0.85rem; margin-top:2px;">
-              <i class="fa-solid fa-star"></i> ${p.rating_avg || 4.9} (${p.rating_count || 320}+ Verified Ratings)
+            <div style="display:flex; align-items:center; gap:8px; margin-bottom:4px;">
+              <span class="product-category">${escapeHtml(p.category)}</span>
+              <span class="assured-badge"><i class="fa-solid fa-shield-check"></i> Assured</span>
+            </div>
+            <h2 style="font-size:1.35rem; color:var(--text-main); line-height:1.3;">${escapeHtml(p.name)}</h2>
+            <div style="display:flex; align-items:center; gap:8px; margin-top:6px;">
+              <span class="rating-pill">
+                ${p.rating_avg || 4.8} <i class="fa-solid fa-star" style="font-size:0.65rem;"></i>
+              </span>
+              <span style="color:var(--text-muted); font-size:0.8rem; font-weight:600;">
+                ${p.rating_count || 450}+ Verified Buyer Reviews
+              </span>
             </div>
           </div>
         </div>
-        <p style="color:var(--text-muted); font-size:0.9rem; margin-bottom:20px;">${escapeHtml(p.description)}</p>
+        <p style="color:var(--text-muted); font-size:0.88rem; line-height:1.45; margin-bottom:18px;">${escapeHtml(p.description)}</p>
         
-        <h4 style="margin-bottom:10px; font-size:0.95rem;">Select License Duration & Plan:</h4>
-        <div style="display:flex; flex-direction:column; gap:8px; margin-bottom:20px;">
+        <h4 style="margin-bottom:10px; font-size:0.92rem; font-weight:700;">Select License Duration & Plan:</h4>
+        <div style="display:flex; flex-direction:column; gap:8px; margin-bottom:18px;">
           ${variantsHtml || `
             <div class="payment-chip active" style="justify-content:space-between;">
               <span>Full License Access</span>
@@ -233,16 +243,17 @@ class KobirulProductionApp {
           `}
         </div>
 
-        <div style="background:var(--bg-input); padding:14px; border-radius:var(--radius-md); margin-bottom:20px; border:1px solid var(--border-color);">
-          <h4 style="font-size:0.85rem; color:var(--terracotta); margin-bottom:6px;"><i class="fa-solid fa-shield-check"></i> Package Features & Warranty:</h4>
-          <ul class="feature-list" style="margin:0;">
-            ${(p.features || []).map(f => `<li><i class="fa-solid fa-check"></i> ${escapeHtml(f)}</li>`).join("")}
-            <li><i class="fa-solid fa-check"></i> 100% Replacement Warranty & WhatsApp Support</li>
+        <div style="background:var(--bg-input); padding:14px; border-radius:var(--radius-xs); margin-bottom:20px; border:1px solid var(--border-color);">
+          <h4 style="font-size:0.85rem; color:var(--fk-blue); margin-bottom:6px; display:flex; align-items:center; gap:6px;">
+            <i class="fa-solid fa-shield-check"></i> K-Assured Warranty & Inclusions:
+          </h4>
+          <ul class="feature-list" style="margin:0; min-height:auto;">
+            ${(p.features || ["Instant Automated Activation", "Direct WhatsApp & Email Delivery", "Full Duration Warranty"]).map(f => `<li><i class="fa-solid fa-check"></i> ${escapeHtml(f)}</li>`).join("")}
           </ul>
         </div>
 
-        <button class="btn btn-block btn-primary" onclick="app.buyNow('${p.slug}')">
-          <i class="fa-solid fa-cart-shopping"></i> Proceed to Checkout (${this.formatPrice(this.activeVariant.sale_price || this.activeVariant.price)})
+        <button class="btn btn-block btn-orange" onclick="app.buyNow('${p.slug}')">
+          <i class="fa-solid fa-cart-shopping"></i> Buy Now • ${this.formatPrice(this.activeVariant.sale_price || this.activeVariant.price)}
         </button>
       </div>
     `;

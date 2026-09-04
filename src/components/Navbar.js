@@ -1,5 +1,5 @@
 // ==============================================================================
-// KOBIRUL SOFTWARES - CLEAN NAVBAR & CUSTOMER DASHBOARD LINK
+// KOBIRUL SOFTWARES - FLIPKART STYLE NAVBAR
 // ==============================================================================
 
 import { escapeHtml } from '../utils/security.js';
@@ -12,44 +12,60 @@ export function renderNavbar(appInstance) {
 
   header.innerHTML = `
     <div class="container nav-wrapper">
-      <div style="display:flex; align-items:center; gap:12px;">
+      <div class="brand-group">
         <button class="mobile-menu-btn" onclick="app.toggleMobileDrawer()" aria-label="Toggle Mobile Menu">
           <i class="fa-solid fa-bars"></i>
         </button>
         
-        <a href="#" class="logo" onclick="app.switchView('store'); return false;">
-          <div class="logo-mark">K</div>
-          <div class="logo-text">Kobirul <span class="logo-serif">Softwares</span></div>
+        <a href="#" class="logo-link" onclick="app.switchView('store'); return false;">
+          <div class="logo-main">
+            Kobirul <span>Softwares</span>
+          </div>
+          <div class="logo-sub">
+            <span>Explore</span>
+            <span class="plus-badge">Plus</span>
+            <i class="fa-solid fa-star plus-icon"></i>
+          </div>
         </a>
       </div>
 
       <div class="search-box">
-        <i class="fa-solid fa-magnifying-glass search-icon"></i>
-        <input type="text" id="global-search" placeholder="Search 250+ software, AI tools & streaming..." oninput="app.filterProducts()">
+        <input 
+          type="text" 
+          id="global-search" 
+          placeholder="Search for software, AI tools, Windows keys, and more..." 
+          oninput="app.filterProducts()"
+          autocomplete="off"
+        >
+        <i class="fa-solid fa-magnifying-glass search-btn-icon"></i>
       </div>
 
-      <nav class="nav-links">
-        <a href="#" class="nav-link active" id="nav-store" onclick="app.switchView('store'); return false;"><i class="fa-solid fa-border-all"></i> Catalog (250+)</a>
-        <a href="#" class="nav-link" id="nav-bundles" onclick="app.filterByCategory('Bundles'); return false;"><i class="fa-solid fa-layer-group"></i> Bundles</a>
-        <a href="#" class="nav-link" id="nav-dashboard" onclick="app.navigateToCustomerDashboard(); return false;"><i class="fa-solid fa-user"></i> Dashboard</a>
-      </nav>
-
-      <div class="header-actions">
-        <button class="theme-toggle-btn" onclick="app.toggleTheme()" title="Toggle Light / Dark Theme">
-          <i class="fa-solid fa-sun icon-sun"></i>
-          <i class="fa-solid fa-moon icon-moon"></i>
-        </button>
-
+      <div class="nav-actions">
         ${customer ? `
-          <button class="auth-btn-user" onclick="app.openCustomerAuthModal()" title="${escapeHtml(customer.email)}">
+          <button class="user-badge-btn" onclick="app.openCustomerAuthModal()" title="${escapeHtml(customer.email)}">
             <i class="fa-solid fa-circle-user"></i>
             <span>${escapeHtml(customer.email.split('@')[0])}</span>
           </button>
         ` : `
-          <button class="auth-btn-login" onclick="app.openCustomerAuthModal()">
-            <i class="fa-solid fa-right-to-bracket"></i> <span class="login-text">Sign In</span>
+          <button class="nav-action-btn" onclick="app.openCustomerAuthModal()">
+            <i class="fa-solid fa-user"></i> <span class="login-text">Login</span>
           </button>
         `}
+
+        <a href="#" class="nav-link-item" onclick="app.navigateToCustomerDashboard(); return false;">
+          <i class="fa-solid fa-box-open"></i>
+          <span>My Orders</span>
+        </a>
+
+        <a href="#" class="nav-link-item" onclick="app.filterByCategory('Bundles'); return false;">
+          <i class="fa-solid fa-layer-group text-warning"></i>
+          <span>Bundles</span>
+        </a>
+
+        <button class="theme-toggle-btn" onclick="app.toggleTheme()" title="Toggle Light / Dark Mode">
+          <i class="fa-solid fa-sun icon-sun"></i>
+          <i class="fa-solid fa-moon icon-moon"></i>
+        </button>
       </div>
     </div>
   `;
